@@ -1,5 +1,6 @@
 # In-Game-MouseRecorderForMacro
-available for ANY FPSgame, generate your recoil trace within 10s
+available for ANY FPSgame, generate your recoil trace and use it for Macro within 10s
+
 This is how you gonna use this:
 step1: open the exe file,input your RPM(900 800 600....) and Magazinecapacity(30, 35, 50...)
 <img width="971" height="394" alt="image" src="https://github.com/user-attachments/assets/8c74cd6d-14e5-4577-b209-5ee3e9ac8ee1" />
